@@ -1,0 +1,145 @@
+﻿生成启动时间为 2023-6-23 20:46:21。
+     1>项目“G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\SAPSO1\SAPSO1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program and Software\Visual Studio 2012\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt subwindows.cpp
+         subwindows.cpp
+     1>subwindows.cpp(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(145): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>subwindows.cpp(147): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(430): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+     1>subwindows.cpp(448): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(449): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(471): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(473): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(474): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(502): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(503): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(442): warning C4101: “command”: 未引用的局部变量
+     1>subwindows.cpp(519): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(520): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(528): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(529): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(573): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\io.h(302) : 参见“access”的声明
+     1>subwindows.cpp(591): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(592): warning C4129: “i”: 不可识别的字符转义序列
+     1>subwindows.cpp(592): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(600): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(601): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(602): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(616): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(621): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\io.h(302) : 参见“access”的声明
+     1>subwindows.cpp(623): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>subwindows.cpp(625): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(658): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(659): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(660): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(585): warning C4101: “j”: 未引用的局部变量
+     1>subwindows.cpp(739): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(740): warning C4129: “i”: 不可识别的字符转义序列
+     1>subwindows.cpp(740): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(742): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(743): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(752): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(757): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(758): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdlib.h(909) : 参见“itoa”的声明
+     1>subwindows.cpp(759): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(760): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\string.h(115) : 参见“strcat”的声明
+     1>subwindows.cpp(803): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>subwindows.cpp(807): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(311) : 参见“sscanf”的声明
+     1>subwindows.cpp(852): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>subwindows.cpp(856): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(311) : 参见“sscanf”的声明
+     1>subwindows.cpp(720): warning C4101: “y2”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “x2”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “y1”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “y3”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “y4”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “x4”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “x1”: 未引用的局部变量
+     1>subwindows.cpp(720): warning C4101: “x3”: 未引用的局部变量
+     1>subwindows.cpp(986): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(987): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>subwindows.cpp(988): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>subwindows.cpp(989): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(995): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(999): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>subwindows.cpp(1000): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(1005): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program and Software\Visual Studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>subwindows.cpp(977): warning C4101: “tmp1”: 未引用的局部变量
+       Link:
+         E:\Program and Software\Visual Studio 2012\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\x64\Debug\SAPSO1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\x64\Debug\SAPSO1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\x64\Debug\SAPSO1.lib" /MACHINE:X64 x64\Debug\File.obj
+         x64\Debug\main.obj
+         x64\Debug\subwindows.obj
+         SAPSO1.vcxproj -> G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\x64\Debug\SAPSO1.exe
+     1>已完成生成项目“G:\Ideas\DSCM-CAU\SAPSO\SAPSO1\SAPSO1\SAPSO1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.83
